@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://parse-server-reinto-olympia.herokuapp.com/parse",
+      "appId": "31012017",
+      "masterKey": "Reinto2017",
+      "appName": "Olympia Parse App"
+    }
+  ],
+  "users": [
+    {
+      "user":"kolacekp",
+      "pass":"Kolo1992" 
+    }
+  ]
+}
