@@ -2,9 +2,9 @@
   "apps": [
     {
       "serverURL": "https://parse-server-reinto-olympia.herokuapp.com/parse",
-      "appId": "31012017",
-      "masterKey": "Reinto2017",
-      "appName": "Olympia Parse App"
+      "appId": "BdJ8r7irEoxLefTLTeXAsdVCQwJllNgCd12jPch3",
+      "masterKey": "DGplW1rTFSGzwkW8TFaNSfwoBz5j8smZQAlyPFj4",
+      "appName": "Olympia Olomouc"
     }
   ],
   "users": [
